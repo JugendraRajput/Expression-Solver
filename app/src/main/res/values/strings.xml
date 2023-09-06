@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Expression Solver</string>
+    <string name="history">History</string>
+    <string name="enter_expression_s">Enter Expression(s)</string>
+    <string name="submit">Submit</string>
+    <string name="nothing_found">Nothing found!</string>
+    <string name="view_all">View All</string>
+    <string name="results">Results</string>
+    <string name="equal">=</string>
+    <string name="loading">---</string>
+</resources>
